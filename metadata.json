@@ -1,0 +1,6 @@
+{
+  "name": "TinyFix - Everyday Problem Solver",
+  "description": "Practical, actionable 2-to-10 minute solutions for everyday productivity, home, food, study, and decision snags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
